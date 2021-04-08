@@ -1,0 +1,12 @@
+E:\C# .NET\Test0\Test0\obj\Debug\netcoreapp3.1\Test0.AssemblyInfoInputs.cache
+E:\C# .NET\Test0\Test0\obj\Debug\netcoreapp3.1\Test0.AssemblyInfo.cs
+E:\C# .NET\Test0\Test0\obj\Debug\netcoreapp3.1\Test0.csproj.CoreCompileInputs.cache
+E:\C# .NET\Test0\Test0\bin\Debug\netcoreapp3.1\Test0.exe
+E:\C# .NET\Test0\Test0\bin\Debug\netcoreapp3.1\Test0.deps.json
+E:\C# .NET\Test0\Test0\bin\Debug\netcoreapp3.1\Test0.runtimeconfig.json
+E:\C# .NET\Test0\Test0\bin\Debug\netcoreapp3.1\Test0.runtimeconfig.dev.json
+E:\C# .NET\Test0\Test0\bin\Debug\netcoreapp3.1\Test0.dll
+E:\C# .NET\Test0\Test0\bin\Debug\netcoreapp3.1\Test0.pdb
+E:\C# .NET\Test0\Test0\obj\Debug\netcoreapp3.1\Test0.dll
+E:\C# .NET\Test0\Test0\obj\Debug\netcoreapp3.1\Test0.pdb
+E:\C# .NET\Test0\Test0\obj\Debug\netcoreapp3.1\Test0.genruntimeconfig.cache
